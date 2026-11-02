@@ -1,0 +1,6 @@
+battery_technology,full_name,general_characteristics,adoption_stage
+LFP,Lithium Iron Phosphate,Typically lower-cost and durable; common in mass-market vehicles,Established
+NMC,Nickel Manganese Cobalt,High energy density; widely used across vehicle classes,Established
+NCA,Nickel Cobalt Aluminum,High energy density; used in some long-range vehicles,Established
+Sodium-Ion,Sodium-Ion,Potential lower-cost materials; emerging deployment,Emerging
+Solid-State,Solid-State,Potential energy-density and safety improvements; pre-commercial in this sample,Emerging

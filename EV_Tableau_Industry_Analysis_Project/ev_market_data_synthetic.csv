@@ -1,0 +1,181 @@
+record_id,year,manufacturer,model,vehicle_category,manufacturing_country,battery_technology,battery_capacity_kwh,driving_range_km,vehicle_price_usd,annual_units_sold,customer_rating_5pt,dc_fast_charge_minutes_10_80,estimated_lifecycle_co2_savings_tonnes_per_vehicle,data_type
+TES-MOD-2021,2021,Tesla,Model 3,Sedan,United States,NCA,76.4,499,50283,15463,4.7,33,9.4,Synthetic
+TES-MOD-2022,2022,Tesla,Model 3,Sedan,United States,NCA,74.3,503,47851,23570,4.8,37,15.3,Synthetic
+TES-MOD-2023,2023,Tesla,Model 3,Sedan,United States,NCA,75.2,539,48818,23989,4.6,40,13.6,Synthetic
+TES-MOD-2024,2024,Tesla,Model 3,Sedan,United States,NCA,75.3,528,47677,30567,4.5,32,8.7,Synthetic
+TES-MOD-2025,2025,Tesla,Model 3,Sedan,United States,NCA,73.2,510,49700,19779,4.5,34,9.9,Synthetic
+TES-MOD-2021,2021,Tesla,Model Y,SUV,United States,NCA,83.1,510,53659,14478,4.3,42,9.5,Synthetic
+TES-MOD-2022,2022,Tesla,Model Y,SUV,United States,NCA,83.4,510,53466,19055,4.6,43,15.0,Synthetic
+TES-MOD-2023,2023,Tesla,Model Y,SUV,United States,NCA,78.7,497,52393,19240,4.4,45,15.9,Synthetic
+TES-MOD-2024,2024,Tesla,Model Y,SUV,United States,NCA,81.8,500,54792,24593,4.5,35,10.2,Synthetic
+TES-MOD-2025,2025,Tesla,Model Y,SUV,United States,NCA,79.8,508,54730,35175,4.4,34,17.0,Synthetic
+TES-CYB-2021,2021,Tesla,Cybertruck,Truck,United States,NCA,120.0,496,78204,467,4.3,65,11.8,Synthetic
+TES-CYB-2022,2022,Tesla,Cybertruck,Truck,United States,NCA,122.1,535,80552,328,4.4,66,8.1,Synthetic
+TES-CYB-2023,2023,Tesla,Cybertruck,Truck,United States,NCA,124.3,516,79084,772,4.3,50,11.9,Synthetic
+TES-CYB-2024,2024,Tesla,Cybertruck,Truck,United States,NCA,126.3,530,79065,715,4.2,51,16.2,Synthetic
+TES-CYB-2025,2025,Tesla,Cybertruck,Truck,United States,NCA,121.5,520,81000,1125,4.0,64,12.9,Synthetic
+BYD-DOL-2021,2021,BYD,Dolphin,Hatchback,China,LFP,45.1,326,21739,7615,4.2,24,15.9,Synthetic
+BYD-DOL-2022,2022,BYD,Dolphin,Hatchback,China,LFP,44.5,327,22588,9224,4.6,18,12.4,Synthetic
+BYD-DOL-2023,2023,BYD,Dolphin,Hatchback,China,LFP,45.7,347,21439,5178,4.4,21,10.4,Synthetic
+BYD-DOL-2024,2024,BYD,Dolphin,Hatchback,China,LFP,44.8,332,22069,13098,4.5,19,10.8,Synthetic
+BYD-DOL-2025,2025,BYD,Dolphin,Hatchback,China,LFP,45.4,338,22036,16015,4.2,19,11.0,Synthetic
+BYD-SEA-2021,2021,BYD,Seal,Sedan,China,LFP,80.7,557,35001,8015,4.6,35,16.1,Synthetic
+BYD-SEA-2022,2022,BYD,Seal,Sedan,China,LFP,79.9,558,36504,11467,4.4,33,16.4,Synthetic
+BYD-SEA-2023,2023,BYD,Seal,Sedan,China,LFP,81.9,582,36852,10972,4.3,33,11.9,Synthetic
+BYD-SEA-2024,2024,BYD,Seal,Sedan,China,LFP,81.8,580,36515,11140,4.7,33,11.6,Synthetic
+BYD-SEA-2025,2025,BYD,Seal,Sedan,China,LFP,83.8,558,35300,11556,4.5,37,10.5,Synthetic
+BYD-ATT-2021,2021,BYD,Atto 3,SUV,China,LFP,61.5,418,30805,7364,4.3,23,17.0,Synthetic
+BYD-ATT-2022,2022,BYD,Atto 3,SUV,China,LFP,61.7,434,30779,14442,4.1,28,9.9,Synthetic
+BYD-ATT-2023,2023,BYD,Atto 3,SUV,China,LFP,58.4,415,31065,12025,4.2,31,12.1,Synthetic
+BYD-ATT-2024,2024,BYD,Atto 3,SUV,China,LFP,61.6,436,30166,14251,4.4,24,10.7,Synthetic
+BYD-ATT-2025,2025,BYD,Atto 3,SUV,China,LFP,60.3,421,30568,24588,4.1,29,12.5,Synthetic
+BYD-E-B-2021,2021,BYD,E-Bus K9,Bus,China,LFP,342.8,259,273170,387,3.9,173,14.1,Synthetic
+BYD-E-B-2022,2022,BYD,E-Bus K9,Bus,China,LFP,342.0,257,276425,261,4.1,174,11.8,Synthetic
+BYD-E-B-2023,2023,BYD,E-Bus K9,Bus,China,LFP,350.5,258,275603,439,4.2,150,11.6,Synthetic
+BYD-E-B-2024,2024,BYD,E-Bus K9,Bus,China,LFP,345.8,246,286336,546,3.9,164,17.0,Synthetic
+BYD-E-B-2025,2025,BYD,E-Bus K9,Bus,China,LFP,341.0,244,276797,773,4.3,191,15.9,Synthetic
+VOL-ID.-2021,2021,Volkswagen,ID.3,Hatchback,Germany,NMC,56.8,431,36590,20616,4.1,32,13.9,Synthetic
+VOL-ID.-2022,2022,Volkswagen,ID.3,Hatchback,Germany,NMC,59.1,413,36490,15180,4.2,23,9.0,Synthetic
+VOL-ID.-2023,2023,Volkswagen,ID.3,Hatchback,Germany,NMC,58.2,412,36342,20969,4.1,24,13.7,Synthetic
+VOL-ID.-2024,2024,Volkswagen,ID.3,Hatchback,Germany,NMC,58.0,433,36949,29640,3.8,26,10.5,Synthetic
+VOL-ID.-2025,2025,Volkswagen,ID.3,Hatchback,Germany,NMC,58.9,424,35481,23511,4.1,28,11.8,Synthetic
+VOL-ID.-2021,2021,Volkswagen,ID.4,SUV,Germany,NMC,75.0,515,46394,20372,4.1,41,13.2,Synthetic
+VOL-ID.-2022,2022,Volkswagen,ID.4,SUV,Germany,NMC,75.3,492,46378,29067,4.2,41,16.1,Synthetic
+VOL-ID.-2023,2023,Volkswagen,ID.4,SUV,Germany,NMC,75.8,484,46004,37429,4.3,35,13.6,Synthetic
+VOL-ID.-2024,2024,Volkswagen,ID.4,SUV,Germany,NMC,79.0,514,46621,40482,4.3,42,8.2,Synthetic
+VOL-ID.-2025,2025,Volkswagen,ID.4,SUV,Germany,NMC,76.2,517,46074,80468,4.3,41,10.4,Synthetic
+HYU-ION-2021,2021,Hyundai,Ioniq 5,SUV,South Korea,NMC,75.2,494,45221,42540,4.4,41,12.1,Synthetic
+HYU-ION-2022,2022,Hyundai,Ioniq 5,SUV,South Korea,NMC,78.4,469,42655,32518,4.3,34,15.8,Synthetic
+HYU-ION-2023,2023,Hyundai,Ioniq 5,SUV,South Korea,NMC,76.0,485,43811,66667,4.7,37,16.5,Synthetic
+HYU-ION-2024,2024,Hyundai,Ioniq 5,SUV,South Korea,NMC,79.2,467,45540,35602,4.4,31,11.9,Synthetic
+HYU-ION-2025,2025,Hyundai,Ioniq 5,SUV,South Korea,NMC,76.1,484,44154,74143,4.4,37,10.3,Synthetic
+HYU-KON-2021,2021,Hyundai,Kona Electric,SUV,South Korea,NMC,63.1,429,34160,40149,4.3,33,14.0,Synthetic
+HYU-KON-2022,2022,Hyundai,Kona Electric,SUV,South Korea,NMC,63.3,420,33666,34613,4.1,35,14.5,Synthetic
+HYU-KON-2023,2023,Hyundai,Kona Electric,SUV,South Korea,NMC,64.3,411,33837,38506,4.1,26,11.8,Synthetic
+HYU-KON-2024,2024,Hyundai,Kona Electric,SUV,South Korea,NMC,65.7,428,34343,76034,4.1,31,8.0,Synthetic
+HYU-KON-2025,2025,Hyundai,Kona Electric,SUV,South Korea,NMC,64.7,417,34436,49701,4.2,30,9.9,Synthetic
+KIA-EV6-2021,2021,Kia,EV6,SUV,South Korea,NMC,78.9,511,42122,42500,4.2,36,13.7,Synthetic
+KIA-EV6-2022,2022,Kia,EV6,SUV,South Korea,NMC,78.5,510,43633,43273,4.3,32,8.2,Synthetic
+KIA-EV6-2023,2023,Kia,EV6,SUV,South Korea,NMC,76.9,513,41831,46597,4.4,38,9.7,Synthetic
+KIA-EV6-2024,2024,Kia,EV6,SUV,South Korea,NMC,77.0,489,43583,82565,4.2,40,14.9,Synthetic
+KIA-EV6-2025,2025,Kia,EV6,SUV,South Korea,NMC,76.7,487,44489,51182,4.4,30,10.2,Synthetic
+NIS-LEA-2021,2021,Nissan,Leaf,Hatchback,Japan,NMC,39.9,276,29383,28141,4.1,19,16.6,Synthetic
+NIS-LEA-2022,2022,Nissan,Leaf,Hatchback,Japan,NMC,40.3,274,29054,33801,4.1,19,16.1,Synthetic
+NIS-LEA-2023,2023,Nissan,Leaf,Hatchback,Japan,NMC,39.9,264,28533,36282,4.0,21,12.7,Synthetic
+NIS-LEA-2024,2024,Nissan,Leaf,Hatchback,Japan,NMC,39.5,260,28611,38455,3.8,18,12.9,Synthetic
+NIS-LEA-2025,2025,Nissan,Leaf,Hatchback,Japan,NMC,39.4,274,29462,26294,3.7,18,12.9,Synthetic
+BMW-I4-2021,2021,BMW,i4,Sedan,Germany,NMC,79.6,486,58796,15312,4.3,41,15.7,Synthetic
+BMW-I4-2022,2022,BMW,i4,Sedan,Germany,NMC,80.4,470,56594,23949,4.4,43,16.6,Synthetic
+BMW-I4-2023,2023,BMW,i4,Sedan,Germany,NMC,82.2,491,57595,21333,4.2,34,11.9,Synthetic
+BMW-I4-2024,2024,BMW,i4,Sedan,Germany,NMC,80.2,497,56803,15378,4.1,38,9.1,Synthetic
+BMW-I4-2025,2025,BMW,i4,Sedan,Germany,NMC,78.7,485,57440,33461,4.1,40,9.2,Synthetic
+BMW-IX-2021,2021,BMW,iX,SUV,Germany,NMC,102.2,554,86565,20475,4.1,55,11.4,Synthetic
+BMW-IX-2022,2022,BMW,iX,SUV,Germany,NMC,107.1,548,85766,30353,4.0,50,17.0,Synthetic
+BMW-IX-2023,2023,BMW,iX,SUV,Germany,NMC,105.9,572,89273,25476,4.3,58,9.8,Synthetic
+BMW-IX-2024,2024,BMW,iX,SUV,Germany,NMC,102.8,543,89382,19418,4.2,44,14.3,Synthetic
+BMW-IX-2025,2025,BMW,iX,SUV,Germany,NMC,102.9,564,89864,47853,4.0,56,16.7,Synthetic
+MER-EQS-2021,2021,Mercedes-Benz,EQS,Sedan,Germany,NMC,104.9,571,105811,41702,4.6,49,14.4,Synthetic
+MER-EQS-2022,2022,Mercedes-Benz,EQS,Sedan,Germany,NMC,109.2,585,101621,46481,4.5,58,13.4,Synthetic
+MER-EQS-2023,2023,Mercedes-Benz,EQS,Sedan,Germany,NMC,111.1,593,103407,58964,4.4,49,12.6,Synthetic
+MER-EQS-2024,2024,Mercedes-Benz,EQS,Sedan,Germany,NMC,110.3,594,101648,88967,4.6,54,15.5,Synthetic
+MER-EQS-2025,2025,Mercedes-Benz,EQS,Sedan,Germany,NMC,107.6,590,107908,139092,4.3,57,12.8,Synthetic
+MG -ZS -2021,2021,MG Motor,ZS EV,SUV,China,NMC,50.8,325,27587,26688,4.2,27,8.8,Synthetic
+MG -ZS -2022,2022,MG Motor,ZS EV,SUV,China,NMC,50.2,319,28254,42460,3.9,19,15.7,Synthetic
+MG -ZS -2023,2023,MG Motor,ZS EV,SUV,China,NMC,50.1,327,27727,26851,4.2,26,10.5,Synthetic
+MG -ZS -2024,2024,MG Motor,ZS EV,SUV,China,NMC,52.4,309,28469,24403,4.0,26,14.2,Synthetic
+MG -ZS -2025,2025,MG Motor,ZS EV,SUV,China,NMC,51.0,327,27244,55761,3.9,26,10.8,Synthetic
+TAT-NEX-2021,2021,Tata Motors,Nexon EV,SUV,India,LFP,44.9,325,18496,44229,4.3,20,14.3,Synthetic
+TAT-NEX-2022,2022,Tata Motors,Nexon EV,SUV,India,LFP,44.3,315,18194,38161,4.0,21,14.9,Synthetic
+TAT-NEX-2023,2023,Tata Motors,Nexon EV,SUV,India,LFP,44.2,324,18883,41012,4.4,21,10.5,Synthetic
+TAT-NEX-2024,2024,Tata Motors,Nexon EV,SUV,India,LFP,44.2,317,18177,42518,4.0,21,10.5,Synthetic
+TAT-NEX-2025,2025,Tata Motors,Nexon EV,SUV,India,LFP,45.1,330,18108,106973,4.4,21,15.9,Synthetic
+TAT-TIA-2021,2021,Tata Motors,Tiago EV,Hatchback,India,LFP,24.0,248,10320,28156,3.9,18,12.3,Synthetic
+TAT-TIA-2022,2022,Tata Motors,Tiago EV,Hatchback,India,LFP,23.9,241,10647,39724,3.9,18,13.1,Synthetic
+TAT-TIA-2023,2023,Tata Motors,Tiago EV,Hatchback,India,LFP,24.7,242,10746,30190,4.2,18,10.0,Synthetic
+TAT-TIA-2024,2024,Tata Motors,Tiago EV,Hatchback,India,LFP,23.9,248,10817,43392,4.3,18,13.6,Synthetic
+TAT-TIA-2025,2025,Tata Motors,Tiago EV,Hatchback,India,LFP,24.3,258,10337,52767,4.0,18,9.4,Synthetic
+MAH-XUV-2021,2021,Mahindra,XUV400,SUV,India,LFP,38.0,360,17526,14430,4.0,18,10.1,Synthetic
+MAH-XUV-2022,2022,Mahindra,XUV400,SUV,India,LFP,39.5,373,17817,28270,4.2,20,13.6,Synthetic
+MAH-XUV-2023,2023,Mahindra,XUV400,SUV,India,LFP,40.0,372,17642,32486,4.1,21,15.4,Synthetic
+MAH-XUV-2024,2024,Mahindra,XUV400,SUV,India,LFP,38.2,369,17892,20215,4.0,18,9.1,Synthetic
+MAH-XUV-2025,2025,Mahindra,XUV400,SUV,India,LFP,39.5,388,17588,43477,4.0,18,8.4,Synthetic
+REN-ZOE-2021,2021,Renault,Zoe,Hatchback,France,NMC,51.4,387,32123,12141,4.2,27,13.2,Synthetic
+REN-ZOE-2022,2022,Renault,Zoe,Hatchback,France,NMC,53.6,400,32533,21209,3.8,27,12.2,Synthetic
+REN-ZOE-2023,2023,Renault,Zoe,Hatchback,France,NMC,53.3,384,33261,20411,4.1,24,8.8,Synthetic
+REN-ZOE-2024,2024,Renault,Zoe,Hatchback,France,NMC,51.5,400,33888,17984,3.9,26,10.6,Synthetic
+REN-ZOE-2025,2025,Renault,Zoe,Hatchback,France,NMC,53.0,396,32960,32958,3.9,23,16.7,Synthetic
+VOL-EX3-2021,2021,Volvo,EX30,SUV,Sweden,NMC,69.1,493,37491,25499,4.4,31,9.7,Synthetic
+VOL-EX3-2022,2022,Volvo,EX30,SUV,Sweden,NMC,70.1,479,37756,28507,4.3,33,16.3,Synthetic
+VOL-EX3-2023,2023,Volvo,EX30,SUV,Sweden,NMC,69.8,460,38306,36599,4.5,29,9.4,Synthetic
+VOL-EX3-2024,2024,Volvo,EX30,SUV,Sweden,NMC,69.2,459,38356,47016,4.6,32,9.1,Synthetic
+VOL-EX3-2025,2025,Volvo,EX30,SUV,Sweden,NMC,69.0,483,37107,65951,4.3,37,16.8,Synthetic
+POL-POL-2021,2021,Polestar,Polestar 2,Sedan,Sweden,NMC,78.2,534,51623,25845,4.3,42,15.8,Synthetic
+POL-POL-2022,2022,Polestar,Polestar 2,Sedan,Sweden,NMC,79.4,536,51666,31299,4.3,41,10.5,Synthetic
+POL-POL-2023,2023,Polestar,Polestar 2,Sedan,Sweden,NMC,78.4,561,50113,38198,4.1,37,11.1,Synthetic
+POL-POL-2024,2024,Polestar,Polestar 2,Sedan,Sweden,NMC,78.2,538,49526,56651,4.1,40,13.1,Synthetic
+POL-POL-2025,2025,Polestar,Polestar 2,Sedan,Sweden,NMC,79.3,520,51004,46464,4.4,41,11.5,Synthetic
+RIV-R1T-2021,2021,Rivian,R1T,Truck,United States,NCA,137.6,519,74245,1297,4.1,64,13.3,Synthetic
+RIV-R1T-2022,2022,Rivian,R1T,Truck,United States,NCA,138.0,497,74403,1758,4.3,69,11.7,Synthetic
+RIV-R1T-2023,2023,Rivian,R1T,Truck,United States,NCA,132.2,498,76696,1790,4.2,69,13.8,Synthetic
+RIV-R1T-2024,2024,Rivian,R1T,Truck,United States,NCA,137.9,514,73648,2399,4.2,69,14.8,Synthetic
+RIV-R1T-2025,2025,Rivian,R1T,Truck,United States,NCA,131.2,482,74947,2748,4.5,76,14.7,Synthetic
+LUC-AIR-2021,2021,Lucid,Air,Sedan,United States,NCA,115.2,838,72072,57046,4.6,60,16.1,Synthetic
+LUC-AIR-2022,2022,Lucid,Air,Sedan,United States,NCA,120.1,816,69637,41846,4.4,56,13.1,Synthetic
+LUC-AIR-2023,2023,Lucid,Air,Sedan,United States,NCA,115.7,802,72064,106413,4.7,50,16.2,Synthetic
+LUC-AIR-2024,2024,Lucid,Air,Sedan,United States,NCA,117.7,813,69052,66329,4.4,62,16.1,Synthetic
+LUC-AIR-2025,2025,Lucid,Air,Sedan,United States,NCA,115.6,826,69493,127989,4.6,59,11.8,Synthetic
+GEE-GEO-2021,2021,Geely,Geometry C,SUV,China,LFP,54.1,390,25820,11231,4.0,22,13.1,Synthetic
+GEE-GEO-2022,2022,Geely,Geometry C,SUV,China,LFP,54.6,393,26896,18043,4.1,23,13.1,Synthetic
+GEE-GEO-2023,2023,Geely,Geometry C,SUV,China,LFP,53.8,385,26222,23490,4.0,29,10.6,Synthetic
+GEE-GEO-2024,2024,Geely,Geometry C,SUV,China,LFP,53.3,395,26277,29624,4.1,27,14.5,Synthetic
+GEE-GEO-2025,2025,Geely,Geometry C,SUV,China,LFP,54.1,404,26760,30141,4.1,23,12.0,Synthetic
+SAI-ELE-2021,2021,SAIC,Electric City Bus,Bus,China,LFP,304.2,222,237757,2797,4.1,125,9.2,Synthetic
+SAI-ELE-2022,2022,SAIC,Electric City Bus,Bus,China,LFP,308.5,230,248146,3153,4.2,129,15.4,Synthetic
+SAI-ELE-2023,2023,SAIC,Electric City Bus,Bus,China,LFP,305.5,234,238490,3566,3.8,168,9.3,Synthetic
+SAI-ELE-2024,2024,SAIC,Electric City Bus,Bus,China,LFP,306.5,234,249263,5971,4.2,159,11.3,Synthetic
+SAI-ELE-2025,2025,SAIC,Electric City Bus,Bus,China,LFP,291.3,230,240440,5992,4.1,152,13.3,Synthetic
+STE-PEU-2021,2021,Stellantis,Peugeot e-208,Hatchback,Netherlands,NMC,52.3,387,32451,33562,3.8,27,13.1,Synthetic
+STE-PEU-2022,2022,Stellantis,Peugeot e-208,Hatchback,Netherlands,NMC,50.1,386,33810,41692,4.2,22,11.7,Synthetic
+STE-PEU-2023,2023,Stellantis,Peugeot e-208,Hatchback,Netherlands,NMC,52.4,393,33047,24417,3.8,27,9.2,Synthetic
+STE-PEU-2024,2024,Stellantis,Peugeot e-208,Hatchback,Netherlands,NMC,51.5,407,34091,40163,4.0,26,9.4,Synthetic
+STE-PEU-2025,2025,Stellantis,Peugeot e-208,Hatchback,Netherlands,NMC,49.8,399,32852,43705,4.2,20,11.3,Synthetic
+CHE-EQ1-2021,2021,Chery,eQ1,Hatchback,China,LFP,30.8,308,11625,50106,4.0,18,16.8,Synthetic
+CHE-EQ1-2022,2022,Chery,eQ1,Hatchback,China,LFP,29.8,292,11644,53761,4.1,18,14.0,Synthetic
+CHE-EQ1-2023,2023,Chery,eQ1,Hatchback,China,LFP,30.2,288,12198,82681,3.8,18,13.1,Synthetic
+CHE-EQ1-2024,2024,Chery,eQ1,Hatchback,China,LFP,30.5,292,11722,52036,4.1,18,9.3,Synthetic
+CHE-EQ1-2025,2025,Chery,eQ1,Hatchback,China,LFP,29.1,308,11663,130689,3.7,18,9.6,Synthetic
+GEE-E-S-2021,2021,Geely,E-Scooter S1,Two-wheeler,China,Sodium-Ion,3.9,105,1845,19442,4.0,18,9.6,Synthetic
+GEE-E-S-2022,2022,Geely,E-Scooter S1,Two-wheeler,China,Sodium-Ion,4.1,110,1839,11830,4.1,18,12.6,Synthetic
+GEE-E-S-2023,2023,Geely,E-Scooter S1,Two-wheeler,China,Sodium-Ion,4.0,113,1751,15286,4.2,18,12.7,Synthetic
+GEE-E-S-2024,2024,Geely,E-Scooter S1,Two-wheeler,China,Sodium-Ion,4.1,106,1806,26324,4.1,18,12.4,Synthetic
+GEE-E-S-2025,2025,Geely,E-Scooter S1,Two-wheeler,China,Sodium-Ion,3.9,106,1822,42287,3.9,18,13.7,Synthetic
+TAT-ELE-2021,2021,Tata Motors,Electric Delivery Truck,Truck,India,LFP,118.7,270,85606,1088,4.0,59,8.9,Synthetic
+TAT-ELE-2022,2022,Tata Motors,Electric Delivery Truck,Truck,India,LFP,122.5,263,87025,1437,4.1,51,12.1,Synthetic
+TAT-ELE-2023,2023,Tata Motors,Electric Delivery Truck,Truck,India,LFP,118.8,259,84925,1094,3.8,55,14.0,Synthetic
+TAT-ELE-2024,2024,Tata Motors,Electric Delivery Truck,Truck,India,LFP,117.5,268,82849,1490,4.2,48,8.9,Synthetic
+TAT-ELE-2025,2025,Tata Motors,Electric Delivery Truck,Truck,India,LFP,122.2,261,85939,2305,4.0,53,9.1,Synthetic
+BYD-BLA-2021,2021,BYD,Blade Solid-State Concept,Sedan,China,Solid-State,90.9,663,56692,515,4.3,50,13.4,Synthetic
+BYD-BLA-2022,2022,BYD,Blade Solid-State Concept,Sedan,China,Solid-State,90.4,635,55878,600,4.1,36,15.6,Synthetic
+BYD-BLA-2023,2023,BYD,Blade Solid-State Concept,Sedan,China,Solid-State,91.4,653,56457,726,4.4,50,15.4,Synthetic
+BYD-BLA-2024,2024,BYD,Blade Solid-State Concept,Sedan,China,Solid-State,90.8,625,56926,1054,4.4,39,9.6,Synthetic
+BYD-BLA-2025,2025,BYD,Blade Solid-State Concept,Sedan,China,Solid-State,89.0,641,53373,1277,4.4,44,11.6,Synthetic
+CAT-SOD-2021,2021,CATL Partner,Sodium City Scooter,Two-wheeler,China,Sodium-Ion,3.0,91,1431,53419,3.8,18,11.1,Synthetic
+CAT-SOD-2022,2022,CATL Partner,Sodium City Scooter,Two-wheeler,China,Sodium-Ion,3.0,97,1413,81208,3.7,18,9.4,Synthetic
+CAT-SOD-2023,2023,CATL Partner,Sodium City Scooter,Two-wheeler,China,Sodium-Ion,3.0,93,1422,121091,3.9,18,10.5,Synthetic
+CAT-SOD-2024,2024,CATL Partner,Sodium City Scooter,Two-wheeler,China,Sodium-Ion,2.9,94,1385,156136,4.0,18,14.0,Synthetic
+CAT-SOD-2025,2025,CATL Partner,Sodium City Scooter,Two-wheeler,China,Sodium-Ion,3.0,95,1358,84743,3.8,18,9.2,Synthetic
+TOY-SOL-2021,2021,Toyota,Solid-State Prototype,Sedan,Japan,Solid-State,94.0,672,63382,2106,3.9,43,14.3,Synthetic
+TOY-SOL-2022,2022,Toyota,Solid-State Prototype,Sedan,Japan,Solid-State,96.9,717,60452,3151,4.3,37,8.2,Synthetic
+TOY-SOL-2023,2023,Toyota,Solid-State Prototype,Sedan,Japan,Solid-State,97.1,704,62628,5173,4.2,43,9.0,Synthetic
+TOY-SOL-2024,2024,Toyota,Solid-State Prototype,Sedan,Japan,Solid-State,94.0,716,62822,2475,4.3,52,8.8,Synthetic
+TOY-SOL-2025,2025,Toyota,Solid-State Prototype,Sedan,Japan,Solid-State,93.5,704,62413,6438,4.0,42,11.1,Synthetic
+NIO-ET5-2021,2021,NIO,ET5,Sedan,China,NMC,73.5,560,43911,34432,4.3,41,11.1,Synthetic
+NIO-ET5-2022,2022,NIO,ET5,Sedan,China,NMC,76.4,574,44295,56947,4.1,31,13.4,Synthetic
+NIO-ET5-2023,2023,NIO,ET5,Sedan,China,NMC,75.7,545,45982,69457,4.3,39,14.8,Synthetic
+NIO-ET5-2024,2024,NIO,ET5,Sedan,China,NMC,76.9,562,45549,62280,4.4,40,13.6,Synthetic
+NIO-ET5-2025,2025,NIO,ET5,Sedan,China,NMC,73.1,557,44504,50564,4.2,29,12.6,Synthetic
+NIO-ES6-2021,2021,NIO,ES6,SUV,China,NMC,99.7,501,57477,43015,4.0,54,15.7,Synthetic
+NIO-ES6-2022,2022,NIO,ES6,SUV,China,NMC,100.0,518,56392,66773,4.3,54,12.0,Synthetic
+NIO-ES6-2023,2023,NIO,ES6,SUV,China,NMC,100.9,512,56084,92121,4.0,39,8.9,Synthetic
+NIO-ES6-2024,2024,NIO,ES6,SUV,China,NMC,99.1,528,56197,113578,4.0,43,11.9,Synthetic
+NIO-ES6-2025,2025,NIO,ES6,SUV,China,NMC,100.1,505,55681,89222,4.1,46,11.0,Synthetic
